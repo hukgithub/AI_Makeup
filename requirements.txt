@@ -1,0 +1,6 @@
+gradio 
+transformers 
+torch 
+openai-whisper 
+mediapipe 
+opencv-python-headless
